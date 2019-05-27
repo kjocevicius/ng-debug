@@ -33,7 +33,7 @@ MIT
 MIT
 
 @sebgroup/ng-debug
-SEE LICENSE IN LICENSE
+Apache-2.0
 
 core-js
 MIT
